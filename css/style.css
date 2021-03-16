@@ -422,6 +422,15 @@ a {
 .portfolio-area .filters-content .item img {
   width: 100%; }
 
+.code-genius {
+  min-height: 200px;
+  /* margin-bottom: 10px; */
+}
+
+.utilivitas {
+  min-height: 200px;
+}
+
 .image {
   opacity: 1;
   display: block;
